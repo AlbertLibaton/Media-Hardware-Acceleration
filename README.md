@@ -1,3 +1,8 @@
+<img width="855" height="800" alt="Screenshot 2026-06-03 at 6 19 36 AM" src="https://github.com/user-attachments/assets/33eeaa0c-b5e2-42a6-8d85-aad21715995a" />
+<img width="1280" height="474" alt="Screenshot 2026-06-03 at 6 18 10 AM" src="https://github.com/user-attachments/assets/4c484102-3107-48a4-b88c-7a6ad2d6faff" />
+
+
+
 # Media-Hardware-Acceleration
 
 Control browser media codec usage by restricting VP9 (vp09) and AV1 (av01) codecs.
