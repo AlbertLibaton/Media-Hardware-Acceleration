@@ -46,10 +46,3 @@ This extension does not collect, store, or transmit user data. All processing oc
 
 Codec selection ultimately depends on website implementation and browser behavior. Some websites may not offer alternative codecs and playback behavior can vary between platforms.
 
-# Short GitHub Tagline
-
-Restricts VP9 and AV1 codecs to influence browser media codec selection and hardware acceleration behavior.
-
-# More Technical Tagline
-
-A Chrome extension that limits VP9 (vp09) and AV1 (av01) codec support, allowing developers and users to test codec fallback paths and hardware-accelerated media playback.
